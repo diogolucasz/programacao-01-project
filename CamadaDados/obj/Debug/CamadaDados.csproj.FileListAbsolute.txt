@@ -1,0 +1,6 @@
+C:\Users\Diogo\source\repos\ProdutosPOO\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Diogo\source\repos\ProdutosPOO\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Diogo\source\repos\ProdutosPOO\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\ProdutosPOO\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Diogo\source\repos\ProdutosPOO\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\Diogo\source\repos\ProdutosPOO\CamadaDados\obj\Debug\CamadaDados.csprojAssemblyReference.cache
